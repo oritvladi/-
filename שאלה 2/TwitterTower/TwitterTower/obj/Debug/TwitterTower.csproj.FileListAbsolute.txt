@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\bin\Debug\TwitterTower.exe.config
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\bin\Debug\TwitterTower.exe
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\bin\Debug\TwitterTower.pdb
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\obj\Debug\TwitterTower.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\obj\Debug\TwitterTower.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\obj\Debug\TwitterTower.exe
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\TwitterTower\TwitterTower\obj\Debug\TwitterTower.pdb
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\bin\Debug\TwitterTower.exe.config
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\bin\Debug\TwitterTower.exe
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\bin\Debug\TwitterTower.pdb
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\obj\Debug\TwitterTower.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\obj\Debug\TwitterTower.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\obj\Debug\TwitterTower.exe
+C:\Users\USER\Desktop\תכנות לימודים\שנה ב\הדסים\תרגיל בית\שאלה 2\TwitterTower\TwitterTower\obj\Debug\TwitterTower.pdb
